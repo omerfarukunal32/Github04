@@ -19,8 +19,8 @@ public class G02 {
     public static void main(String[] args) {
 
         System.out.println("Islem ekleyelim");
-
         System.out.println("HEAD");
+        System.out.println("Master");
 
 
 
